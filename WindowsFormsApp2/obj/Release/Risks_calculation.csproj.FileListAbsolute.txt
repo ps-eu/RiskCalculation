@@ -1,0 +1,90 @@
+C:\Users\Владимир\Desktop\Risks_calculation\WindowsFormsApp2\bin\Release\WindowsFormsApp2.exe.config
+C:\Users\Владимир\Desktop\Risks_calculation\WindowsFormsApp2\bin\Release\WindowsFormsApp2.exe
+C:\Users\Владимир\Desktop\Risks_calculation\WindowsFormsApp2\bin\Release\WindowsFormsApp2.pdb
+C:\Users\Владимир\Desktop\Risks_calculation\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Form1.resources
+C:\Users\Владимир\Desktop\Risks_calculation\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Form2.resources
+C:\Users\Владимир\Desktop\Risks_calculation\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Graphic.resources
+C:\Users\Владимир\Desktop\Risks_calculation\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Владимир\Desktop\Risks_calculation\WindowsFormsApp2\obj\Release\Risks_calculation.csproj.GenerateResource.Cache
+C:\Users\Владимир\Desktop\Risks_calculation\WindowsFormsApp2\obj\Release\WindowsFormsApp2.exe
+C:\Users\Владимир\Desktop\Risks_calculation\WindowsFormsApp2\obj\Release\WindowsFormsApp2.pdb
+C:\Users\Владимир\Desktop\Risks_calculation\WindowsFormsApp2\obj\Release\Risks_calculation.csprojResolveAssemblyReference.cache
+C:\Users\Владимир\Desktop\Университетское говно\Risks_calculation\WindowsFormsApp2\obj\Release\Risks_calculation.csprojResolveAssemblyReference.cache
+C:\Users\Владимир\Desktop\Университетское говно\Risks_calculation\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Graphic.resources
+C:\Users\Владимир\Desktop\Университетское говно\Risks_calculation\WindowsFormsApp2\obj\Release\Risks_calculation.csproj.GenerateResource.Cache
+C:\Users\Владимир\Desktop\Университетское говно\Risks_calculation\WindowsFormsApp2\obj\Release\WindowsFormsApp2.MainForm.resources
+C:\Users\Владимир\Desktop\Университетское говно\Risks_calculation\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Matrix.resources
+C:\Users\Владимир\Desktop\Университетское говно\Risks_calculation\WindowsFormsApp2\bin\Release\Risks_calculaion.exe.config
+C:\Users\Владимир\Desktop\Университетское говно\Risks_calculation\WindowsFormsApp2\bin\Release\Risks_calculaion.exe
+C:\Users\Владимир\Desktop\Университетское говно\Risks_calculation\WindowsFormsApp2\bin\Release\Risks_calculaion.pdb
+C:\Users\Владимир\Desktop\Университетское говно\Risks_calculation\WindowsFormsApp2\obj\Release\Risks_calculation.Properties.Resources.resources
+C:\Users\Владимир\Desktop\Университетское говно\Risks_calculation\WindowsFormsApp2\obj\Release\Risks_calculaion.exe
+C:\Users\Владимир\Desktop\Университетское говно\Risks_calculation\WindowsFormsApp2\obj\Release\Risks_calculaion.pdb
+e:\Работа_все\Документы\ШЕВЧЕНКО\ЗАВДАННЯ\ЗАВДАНИЕ_3_test\Risks_calculation\WindowsFormsApp2\bin\Release\Risks_calculaion.exe.config
+e:\Работа_все\Документы\ШЕВЧЕНКО\ЗАВДАННЯ\ЗАВДАНИЕ_3_test\Risks_calculation\WindowsFormsApp2\bin\Release\Risks_calculaion.exe
+e:\Работа_все\Документы\ШЕВЧЕНКО\ЗАВДАННЯ\ЗАВДАНИЕ_3_test\Risks_calculation\WindowsFormsApp2\bin\Release\Risks_calculaion.pdb
+e:\Работа_все\Документы\ШЕВЧЕНКО\ЗАВДАННЯ\ЗАВДАНИЕ_3_test\Risks_calculation\WindowsFormsApp2\obj\Release\Risks_calculation.csprojResolveAssemblyReference.cache
+e:\Работа_все\Документы\ШЕВЧЕНКО\ЗАВДАННЯ\ЗАВДАНИЕ_3_test\Risks_calculation\WindowsFormsApp2\obj\Release\WindowsFormsApp2.MainForm.resources
+e:\Работа_все\Документы\ШЕВЧЕНКО\ЗАВДАННЯ\ЗАВДАНИЕ_3_test\Risks_calculation\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Graphic.resources
+e:\Работа_все\Документы\ШЕВЧЕНКО\ЗАВДАННЯ\ЗАВДАНИЕ_3_test\Risks_calculation\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Matrix.resources
+e:\Работа_все\Документы\ШЕВЧЕНКО\ЗАВДАННЯ\ЗАВДАНИЕ_3_test\Risks_calculation\WindowsFormsApp2\obj\Release\Risks_calculation.Properties.Resources.resources
+e:\Работа_все\Документы\ШЕВЧЕНКО\ЗАВДАННЯ\ЗАВДАНИЕ_3_test\Risks_calculation\WindowsFormsApp2\obj\Release\Risks_calculation.csproj.GenerateResource.Cache
+e:\Работа_все\Документы\ШЕВЧЕНКО\ЗАВДАННЯ\ЗАВДАНИЕ_3_test\Risks_calculation\WindowsFormsApp2\obj\Release\Risks_calculaion.exe
+e:\Работа_все\Документы\ШЕВЧЕНКО\ЗАВДАННЯ\ЗАВДАНИЕ_3_test\Risks_calculation\WindowsFormsApp2\obj\Release\Risks_calculaion.pdb
+D:\Desktop\Risks_calculation\WindowsFormsApp2\bin\Release\Risks_calculaion.exe.config
+D:\Desktop\Risks_calculation\WindowsFormsApp2\bin\Release\Risks_calculaion.exe
+D:\Desktop\Risks_calculation\WindowsFormsApp2\bin\Release\Risks_calculaion.pdb
+D:\Desktop\Risks_calculation\WindowsFormsApp2\obj\Release\Risks_calculation.csprojResolveAssemblyReference.cache
+D:\Desktop\Risks_calculation\WindowsFormsApp2\obj\Release\WindowsFormsApp2.MainForm.resources
+D:\Desktop\Risks_calculation\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Graphic.resources
+D:\Desktop\Risks_calculation\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Matrix.resources
+D:\Desktop\Risks_calculation\WindowsFormsApp2\obj\Release\Risks_calculation.Properties.Resources.resources
+D:\Desktop\Risks_calculation\WindowsFormsApp2\obj\Release\Risks_calculation.csproj.GenerateResource.Cache
+D:\Desktop\Risks_calculation\WindowsFormsApp2\obj\Release\Risks_calculaion.exe
+D:\Desktop\Risks_calculation\WindowsFormsApp2\obj\Release\Risks_calculaion.pdb
+D:\Desktop\Risks_calculation_Eng\WindowsFormsApp2\bin\Release\Risks_calculaion.exe.config
+D:\Desktop\Risks_calculation_Eng\WindowsFormsApp2\bin\Release\Risks_calculaion.exe
+D:\Desktop\Risks_calculation_Eng\WindowsFormsApp2\bin\Release\Risks_calculaion.pdb
+D:\Desktop\Risks_calculation_Eng\WindowsFormsApp2\obj\Release\Risks_calculation.csprojResolveAssemblyReference.cache
+D:\Desktop\Risks_calculation_Eng\WindowsFormsApp2\obj\Release\WindowsFormsApp2.MainForm.resources
+D:\Desktop\Risks_calculation_Eng\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Graphic.resources
+D:\Desktop\Risks_calculation_Eng\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Matrix.resources
+D:\Desktop\Risks_calculation_Eng\WindowsFormsApp2\obj\Release\Risks_calculation.Properties.Resources.resources
+D:\Desktop\Risks_calculation_Eng\WindowsFormsApp2\obj\Release\Risks_calculation.csproj.GenerateResource.Cache
+D:\Desktop\Risks_calculation_Eng\WindowsFormsApp2\obj\Release\Risks_calculaion.exe
+D:\Desktop\Risks_calculation_Eng\WindowsFormsApp2\obj\Release\Risks_calculaion.pdb
+C:\Users\User\Desktop\Risks_calculation_Eng\WindowsFormsApp2\bin\Release\Risks_calculaion.exe.config
+C:\Users\User\Desktop\Risks_calculation_Eng\WindowsFormsApp2\bin\Release\Risks_calculaion.exe
+C:\Users\User\Desktop\Risks_calculation_Eng\WindowsFormsApp2\bin\Release\Risks_calculaion.pdb
+C:\Users\User\Desktop\Risks_calculation_Eng\WindowsFormsApp2\obj\Release\Risks_calculation.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Risks_calculation_Eng\WindowsFormsApp2\obj\Release\WindowsFormsApp2.MainForm.resources
+C:\Users\User\Desktop\Risks_calculation_Eng\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Graphic.resources
+C:\Users\User\Desktop\Risks_calculation_Eng\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Matrix.resources
+C:\Users\User\Desktop\Risks_calculation_Eng\WindowsFormsApp2\obj\Release\Risks_calculation.Properties.Resources.resources
+C:\Users\User\Desktop\Risks_calculation_Eng\WindowsFormsApp2\obj\Release\Risks_calculation.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Risks_calculation_Eng\WindowsFormsApp2\obj\Release\Risks_calculaion.exe
+C:\Users\User\Desktop\Risks_calculation_Eng\WindowsFormsApp2\obj\Release\Risks_calculaion.pdb
+C:\Users\san4e\Desktop\Risks_calculation_Eng\WindowsFormsApp2\bin\Release\Risks_calculaion.exe.config
+C:\Users\san4e\Desktop\Risks_calculation_Eng\WindowsFormsApp2\bin\Release\Risks_calculaion.exe
+C:\Users\san4e\Desktop\Risks_calculation_Eng\WindowsFormsApp2\bin\Release\Risks_calculaion.pdb
+C:\Users\san4e\Desktop\Risks_calculation_Eng\WindowsFormsApp2\obj\Release\Risks_calculation.csprojAssemblyReference.cache
+C:\Users\san4e\Desktop\Risks_calculation_Eng\WindowsFormsApp2\obj\Release\WindowsFormsApp2.MainForm.resources
+C:\Users\san4e\Desktop\Risks_calculation_Eng\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Graphic.resources
+C:\Users\san4e\Desktop\Risks_calculation_Eng\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Matrix.resources
+C:\Users\san4e\Desktop\Risks_calculation_Eng\WindowsFormsApp2\obj\Release\Risks_calculation.Properties.Resources.resources
+C:\Users\san4e\Desktop\Risks_calculation_Eng\WindowsFormsApp2\obj\Release\Risks_calculation.csproj.GenerateResource.cache
+C:\Users\san4e\Desktop\Risks_calculation_Eng\WindowsFormsApp2\obj\Release\Risks_calculation.csproj.CoreCompileInputs.cache
+C:\Users\san4e\Desktop\Risks_calculation_Eng\WindowsFormsApp2\obj\Release\Risks_calculaion.exe
+C:\Users\san4e\Desktop\Risks_calculation_Eng\WindowsFormsApp2\obj\Release\Risks_calculaion.pdb
+E:\Repository\VS\Risks_calculation_Eng\WindowsFormsApp2\bin\Release\Risks_calculaion.exe.config
+E:\Repository\VS\Risks_calculation_Eng\WindowsFormsApp2\bin\Release\Risks_calculaion.exe
+E:\Repository\VS\Risks_calculation_Eng\WindowsFormsApp2\bin\Release\Risks_calculaion.pdb
+E:\Repository\VS\Risks_calculation_Eng\WindowsFormsApp2\obj\Release\Risks_calculation.csprojAssemblyReference.cache
+E:\Repository\VS\Risks_calculation_Eng\WindowsFormsApp2\obj\Release\WindowsFormsApp2.MainForm.resources
+E:\Repository\VS\Risks_calculation_Eng\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Graphic.resources
+E:\Repository\VS\Risks_calculation_Eng\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Matrix.resources
+E:\Repository\VS\Risks_calculation_Eng\WindowsFormsApp2\obj\Release\Risks_calculation.Properties.Resources.resources
+E:\Repository\VS\Risks_calculation_Eng\WindowsFormsApp2\obj\Release\Risks_calculation.csproj.GenerateResource.cache
+E:\Repository\VS\Risks_calculation_Eng\WindowsFormsApp2\obj\Release\Risks_calculation.csproj.CoreCompileInputs.cache
+E:\Repository\VS\Risks_calculation_Eng\WindowsFormsApp2\obj\Release\Risks_calculaion.exe
+E:\Repository\VS\Risks_calculation_Eng\WindowsFormsApp2\obj\Release\Risks_calculaion.pdb
